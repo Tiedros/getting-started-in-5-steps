@@ -6,5 +6,6 @@ public class HelloWorld {
 		Map<String, String> map = new HashMap<String, String>();
 		map.put("key", "value");
 		System.out.println("This is added for git pull purpose!!!!");
+		System.out.println("This is added for git Push purpose!!!!);
 	}
 }
